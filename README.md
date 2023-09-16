@@ -5,7 +5,7 @@ Tecnologias utilizadas:
 <br>
 Lenguaje: Typescript
 <br>
-Base de datos: Mongoose/MONGODB Atlas
+Base de datos: Mongoose/MONGODB Atlas + Mongoose.
 <br>
 Back-End: NodeJs, ExpressJs,
 <br>
@@ -21,6 +21,6 @@ Peticiones http/: insonmia ,
 
 
 
-![home](./img/NODE.png)
+![home](./IMG/NODE.png)
 
 BY____________MATHIAS_MLC____________________

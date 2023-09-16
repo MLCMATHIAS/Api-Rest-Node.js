@@ -4,3 +4,4 @@ node_models
 !storage/ .gitkeep
 package-lock.json
 dist/
+.env
